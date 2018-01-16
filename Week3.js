@@ -17,7 +17,8 @@ function removeStringValues(obj) {
       delete obj[key];
     }
   }
-}*/
+}
+*/
 
 var obj = {
   name: 'Sam',
